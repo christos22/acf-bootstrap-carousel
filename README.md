@@ -42,7 +42,7 @@ You can find instructions on how to install the plugin [here](https://www.advanc
 
 Unless you know what you are doing do not install this plugin yet as it is not ready.
 
-If you know what you are doing you can import the acf-bc.json file to ACF tools > import. This will add the repeater field 'Repeater Carousel'.
+If you know what you are doing you can import the acf-field-groups.json file to ACF tools > import. This will add the repeater field 'Repeater Carousel'.
 
 You can also copy the code from the *acf-bc.php* file and add it to your *functions.php* for better performance.
 
